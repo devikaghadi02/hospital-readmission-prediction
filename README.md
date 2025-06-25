@@ -4,7 +4,7 @@
 # Predicting Hospital Readmission for Diabetic Patients
 
 ## Project Overview
-This project aims to predict hospital readmissions within 30 days for diabetic patients using a medical claims dataset. High readmission rates are a critical issue in healthcare, indicating poor care quality and increasing costs. The Hospital Readmissions Reduction Program (HRRP) penalizes hospitals for excessive readmissions, with diabetic patient readmissions costing $41 billion in 2011. This project addresses two key objectives:
+This project aims to predict hospital readmissions within 30 days for diabetic patients using a medical claims dataset. High readmission rates are a critical issue in healthcare, indicating poor care quality and increasing costs. The Hospital Readmissions Reduction Program (HRRP) penalizes hospitals for excessive readmissions, with diabetic patient readmissions costing $41 billion. This project addresses two key objectives:
 
 1. **Identify the strongest predictors** of hospital readmission for diabetic patients.
 2. **Develop an accurate predictive model** using a limited set of features.
